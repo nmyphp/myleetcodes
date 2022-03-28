@@ -3,8 +3,7 @@ package com.github.nmyphp.leetcode;
 import java.util.Scanner;
 
 /**
- * 牛客：合唱队
- * https://www.nowcoder.com/practice/6d9d69e3898f45169a441632b325c7b4
+ * 牛客：合唱队 https://www.nowcoder.com/practice/6d9d69e3898f45169a441632b325c7b4
  */
 public class Chorus {
 
